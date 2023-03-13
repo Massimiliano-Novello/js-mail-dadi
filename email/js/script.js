@@ -29,10 +29,11 @@ for (let i = 0; i < email.length; i++) {
 
 let message;
 if (emailFound === true) {
-    message = "l'email inserita è corretta";
+    message = "l'email inserita è corretta"
 } else {
     message = "l'email inserita non è corretta"
-    console.log(message);
 }
+
+console.log(message);
 
 document.getElementById("result").innerHTML = message;

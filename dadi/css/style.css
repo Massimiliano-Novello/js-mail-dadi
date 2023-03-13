@@ -1,0 +1,15 @@
+.result {
+    text-align: center;
+    font-size: 3rem;
+    padding: 30px;
+    color: white;
+    background-color: blue;
+}
+
+.user-number {
+    color: lightblue;
+}
+
+.number {
+    color: lightgreen;
+}
