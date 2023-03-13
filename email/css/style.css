@@ -1,0 +1,12 @@
+.container {
+    background-color: aquamarine;
+    width: 80%;
+    margin: auto;
+    height: 70%;
+}
+
+.style {
+    font-size: 3rem;
+    color: red;
+    text-align: center;
+}
