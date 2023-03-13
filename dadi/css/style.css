@@ -1,15 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    background-color: aquamarine;
+    height: 1000px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.small-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
 .result {
     text-align: center;
     font-size: 3rem;
     padding: 30px;
     color: white;
-    background-color: blue;
+}
+
+h1 {
+    color: red;
+    font-size: 3rem;
+    text-align: center;
+    padding: 20px 0;
 }
 
 .user-number {
-    color: lightblue;
+    color: blue;
 }
 
 .number {
     color: lightgreen;
+}
+
+h3 {
+    text-align: center;
+    padding: 30px 0;
+    font-size: 2rem;
+    color: green;
+
+}
+
+.button {
+    text-align: center;
+}
+
+.genera {
+    padding: 10px;
+    color: white;
+    background-color: brown;
 }
